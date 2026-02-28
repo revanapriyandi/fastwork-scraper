@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+session.json
+test_session.json
+*.png
+.env
